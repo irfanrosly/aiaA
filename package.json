@@ -8,12 +8,13 @@
     "start": "react-native start",
     "test": "jest",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
-    "clean:full": "rm -rf node_modules && yarn",
+    "clean:full": "rm -rf node_modules yarn.lock && yarn",
     "clean:ios": "cd ios && rm -rf Pods Podfile.lock && pod install && cd .."
   },
   "dependencies": {
     "@rneui/base": "^4.0.0-rc.6",
     "@rneui/themed": "^4.0.0-rc.6",
+    "axios": "0.27.2",
     "react": "18.1.0",
     "react-native": "0.70.3",
     "react-native-gesture-handler": "^2.7.1",

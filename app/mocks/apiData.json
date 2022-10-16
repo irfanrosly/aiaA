@@ -1,0 +1,22 @@
+[
+  { "Name": "Nirvana", "Type": "music" },
+  { "Name": "System Of A Down", "Type": "music" },
+  { "Name": "Jet", "Type": "music" },
+  { "Name": "The White Stripes", "Type": "music" },
+  { "Name": "Led Zeppelin", "Type": "music" },
+  { "Name": "Wolfmother", "Type": "music" },
+  { "Name": "Foo Fighters", "Type": "music" },
+  { "Name": "Oasis", "Type": "music" },
+  { "Name": "Rage Against The Machine", "Type": "music" },
+  { "Name": "Guns N' Roses", "Type": "music" },
+  { "Name": "The Offspring", "Type": "music" },
+  { "Name": "Pearl Jam", "Type": "music" },
+  { "Name": "Metallica", "Type": "music" },
+  { "Name": "The Doors", "Type": "music" },
+  { "Name": "Arctic Monkeys", "Type": "music" },
+  { "Name": "Gorillaz", "Type": "music" },
+  { "Name": "Muse", "Type": "music" },
+  { "Name": "The Beatles", "Type": "music" },
+  { "Name": "Green Day", "Type": "music" },
+  { "Name": "Pink Floyd", "Type": "music" }
+]
