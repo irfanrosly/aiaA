@@ -14,7 +14,6 @@ import {
   ScrollView,
   StatusBar,
   StyleSheet,
-  Text,
   useColorScheme,
   View,
 } from 'react-native';
@@ -27,7 +26,7 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
-import { Button } from './app/components';
+import { Button, Text } from './app/components/atom';
 
 const Section: React.FC<
   PropsWithChildren<{
@@ -55,7 +54,8 @@ const Section: React.FC<
         ]}>
         {children}
       </Text>
-      <Button />
+      <Button title="Button Testing" />
+      <Text>Welcome to the Jungle!</Text>
     </View>
   );
 };

@@ -3,7 +3,7 @@ import { Button } from '@rneui/themed';
 
 interface Props {
   title: string;
-  buttonStyle: object;
+  buttonStyle?: object;
 }
 const CustomButton: React.FC<Props> = ({ title = 'Button Title', ...rest }) => {
   return <Button title={title} {...rest} />;
