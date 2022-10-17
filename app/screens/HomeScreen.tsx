@@ -17,11 +17,9 @@ import {
   Dimensions,
 } from 'react-native';
 import Carousel from 'react-native-reanimated-carousel';
-import { Button, Text } from '../components/atom';
+import { Text } from '../components/atom';
 import { Card } from '../components/molecules';
 import axios from 'axios';
-import { store } from '../config/store';
-import { Provider } from 'react-redux';
 import type { RootState } from '../config/store';
 import { useSelector } from 'react-redux';
 
@@ -31,8 +29,8 @@ console.log('mockData', mockData);
 const HomeScreen = () => {
   const [data, setData] = useState(mockData);
 
-  const homeData = useSelector((state: RootState) => state.home.data);
-  console.log('homeData : ', homeData);
+  const homeData = useSelector((state: RootState) => state.home);
+  console.log('homeData : ', data);
   const changeOrder = () => {
     const newData = data.sort((a, b) => a.Name < b.Name);
     console.log('new', newData);
@@ -55,7 +53,7 @@ const HomeScreen = () => {
   const { width, height } = Dimensions.get('window');
 
   const Item = ({ title }) => (
-    <View style={styles.item}>
+    <View style={styles.cardContainer}>
       <Text style={styles.title}>{title}</Text>
     </View>
   );
@@ -63,31 +61,31 @@ const HomeScreen = () => {
   const renderItem = ({ item }) => <Item title={item.Name} />;
 
   return (
-    <Provider store={store}>
-      <SafeAreaView style={{ flex: 1 }}>
-        <View style={{ backgroundColor: 'blue', flex: 1 }}>
+    <SafeAreaView style={{ flex: 1 }}>
+      <View style={{ flex: 1 }}>
+        <View style={{ flex: 0.5 }}>
           <Carousel
             loop
             width={width}
-            height={height * 0.4}
+            height={'100%'}
             autoPlay={true}
-            data={[...new Array(6).keys()]}
+            data={homeData?.favItem}
             // scrollAnimationDuration={1000}
             // onSnapToItem={index => console.log('current index:', index)}
-            renderItem={({ index }) => <Card id={index} />}
-            style={{ backgroundColor: 'yellow' }}
+            renderItem={item => <Card item={item?.item} />}
+            style={{}}
           />
-          <View style={{ flex: 0.6 }}>
-            <Button title="Change Order" onPress={() => changeOrder()} />
-            <FlatList
-              data={data}
-              renderItem={renderItem}
-              keyExtractor={item => item.id}
-            />
-          </View>
         </View>
-      </SafeAreaView>
-    </Provider>
+        <View style={{ flex: 0.6, marginHorizontal: 8 }}>
+          <FlatList
+            data={data}
+            renderItem={renderItem}
+            keyExtractor={item => item.id}
+            style={{ flex: 1 }}
+          />
+        </View>
+      </View>
+    </SafeAreaView>
   );
 };
 
@@ -107,6 +105,18 @@ const styles = StyleSheet.create({
   },
   highlight: {
     fontWeight: '700',
+  },
+  cardContainer: {
+    height: 48,
+    width: '100%',
+    borderColor: 'grey',
+    borderWidth: 1,
+    borderRadius: 8,
+    marginVertical: 4,
+    marginHorizotal: 8,
+    backgroundColor: 'white',
+    justifyContent: 'center',
+    paddingHorizontal: 24,
   },
 });
 

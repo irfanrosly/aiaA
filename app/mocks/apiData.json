@@ -1,22 +1,162 @@
 [
-  { "Name": "Nirvana", "Type": "music" },
-  { "Name": "System Of A Down", "Type": "music" },
-  { "Name": "Jet", "Type": "music" },
-  { "Name": "The White Stripes", "Type": "music" },
-  { "Name": "Led Zeppelin", "Type": "music" },
-  { "Name": "Wolfmother", "Type": "music" },
-  { "Name": "Foo Fighters", "Type": "music" },
-  { "Name": "Oasis", "Type": "music" },
-  { "Name": "Rage Against The Machine", "Type": "music" },
-  { "Name": "Guns N' Roses", "Type": "music" },
-  { "Name": "The Offspring", "Type": "music" },
-  { "Name": "Pearl Jam", "Type": "music" },
-  { "Name": "Metallica", "Type": "music" },
-  { "Name": "The Doors", "Type": "music" },
-  { "Name": "Arctic Monkeys", "Type": "music" },
-  { "Name": "Gorillaz", "Type": "music" },
-  { "Name": "Muse", "Type": "music" },
-  { "Name": "The Beatles", "Type": "music" },
-  { "Name": "Green Day", "Type": "music" },
-  { "Name": "Pink Floyd", "Type": "music" }
+  {
+    "Name": "Nirvana",
+    "Type": "music",
+    "wTeaser": "Nirvana was an American rock band formed in Aberdeen, Washington, in 1987. Founded by lead singer and guitarist Kurt Cobain and bassist Krist Novoselic, the band went through a succession of drummers, most notably Chad Channing, before recruiting Dave Grohl in 1990. Nirvana's success popularized alternative rock, and they were often referenced as the figurehead band of Generation X. Their music maintains a popular following and continues to influence modern rock culture.In the late 1980s, Nirvana established itself as part of the Seattle grunge scene, releasing its first album, Bleach, for the independent record label Sub Pop in 1989. They developed a sound that relied on dynamic contrasts, often between quiet verses and loud, heavy choruses. After signing to major label DGC Records in 1991, Nirvana found unexpected mainstream success with \"Smells Like Teen Spirit\", the first single from their landmark second album Nevermind (1991). A cultural phenomenon of the 1990s, Nevermind was certified Diamond by the RIAA and is credited for ending the dominance of hair metal.",
+    "wUrl": "http://en.wikipedia.org/wiki/Ted_Ed_Fred",
+    "yUrl": "https://www.youtube-nocookie.com/embed/hTWKbfoikeg",
+    "yID": "hTWKbfoikeg"
+  },
+  {
+    "Name": "System Of A Down",
+    "Type": "music",
+    "wTeaser": "System of a Down (also known as SoaD or simply System) is an Armenian-American heavy metal band formed in Glendale, California, in 1994. Since 1997, the band has consisted of Serj Tankian (lead vocals, keyboards); Daron Malakian (guitar, vocals); Shavo Odadjian (bass, backing vocals); and John Dolmayan (drums), who replaced original drummer Andy Khachaturian.The band achieved commercial success with the release of five studio albums, three of which debuted at number one on the US Billboard 200. System of a Down has been nominated for four Grammy Awards and their song \"B.Y.O.B.\" won a Grammy Award for Best Hard Rock Performance in 2006. The band went on hiatus in 2006 and reunited in 2010. Other than two new songs in 2020 (\"Protect the Land\" and \"Genocidal Humanoidz\"), System of a Down has not released a full-length record since the Mezmerize and Hypnotize albums in 2005. The band has sold over 12 million records worldwide, while two of their singles \"Aerials\" and \"Hypnotize\" reached number one on Billboard's Alternative Songs chart.",
+    "wUrl": "http://en.wikipedia.org/wiki/System_of_a_Down",
+    "yUrl": "https://www.youtube-nocookie.com/embed/CSvFpBOe8eY",
+    "yID": "CSvFpBOe8eY"
+  },
+  {
+    "Name": "Jet",
+    "Type": "music",
+    "wTeaser": "Jet is an Australian rock band formed in 2001. The band consists of lead guitarist Cameron Muncey, bassist Mark Wilson, and brothers Nic and Chris Cester on vocals/rhythm guitar and drums, respectively. The group sold 6.5 million albums. The band dissolved in 2012 but reformed in 2016.Brothers Nic Cester and Chris Cester grew up in Dingley Village, a south-eastern suburb of Melbourne, Victoria, and attended St Bede's College Mentone, listening to their father's classic rock records from the 1960s and 1970s.However, according to Nic, it was Australian band You Am I who had the biggest influence on Jet's developing musical tastes:\"Hi Fi Way was the most important album of my generation. ... I think everyone our age, who played guitar, played You Am I songs for the first time in front of their school assembly. ... That was the record that made you realise you could be in an Australian band, you didn't have to be a grunge band and you didn't have to be influenced by American bands. It changed everything.\"",
+    "wUrl": "https://en.wikipedia.org/wiki/Jet_(Australian_band)",
+    "yUrl": "https://www.youtube-nocookie.com/embed/tuK6n2Lkza0",
+    "yID": "tuK6n2Lkza0"
+  },
+  {
+    "Name": "The White Stripes",
+    "Type": "music",
+    "wTeaser": "The White Stripes were an American rock duo from Detroit formed in 1997. The group consisted of Jack White (songwriter, vocals, guitar, piano, and mandolin) and Meg White (drums and vocals). After releasing several singles and three albums within the Detroit music scene, the White Stripes rose to prominence in 2002 as part of the garage rock revival scene. Their successful and critically acclaimed albums White Blood Cells and Elephant drew attention from a large variety of media outlets in the United States and the United Kingdom. The single \"Seven Nation Army\", which used a guitar and an octave pedal to create the opening riff, became one of their most recognizable songs. The band recorded two more albums, Get Behind Me Satan in 2005 and Icky Thump in 2007, and dissolved in 2011 after a lengthy hiatus from performing and recording.",
+    "wUrl": "http://en.wikipedia.org/wiki/The_White_Stripes",
+    "yUrl": "https://www.youtube-nocookie.com/embed/0J2QdDbelmY",
+    "yID": "0J2QdDbelmY"
+  },
+  {
+    "Name": "Led Zeppelin",
+    "Type": "music",
+    "wTeaser": "Led Zeppelin were  an English rock band formed in London in 1968. The group consisted of vocalist Robert Plant, guitarist Jimmy Page, bassist/keyboardist John Paul Jones, and drummer John Bonham. With a heavy, guitar-driven sound, they are cited as one of the progenitors of hard rock and heavy metal, although their style drew from a variety of influences, including blues and folk music. Led Zeppelin have been credited as significantly impacting the nature of the music industry, particularly in the development of album-oriented rock (AOR) and stadium rock.Originally named the New Yardbirds, Led Zeppelin signed a deal with Atlantic Records that gave them considerable artistic freedom. Initially unpopular with critics, they achieved significant commercial success with eight studio albums over ten years. Their 1969 debut, Led Zeppelin, was a top-ten album in several countries and featured such tracks as \"Good Times Bad Times\", \"Dazed and Confused\" and \"Communication Breakdown\". Led Zeppelin II (1969) was their first number-one album, and yielded \"Ramble On\" and \"Whole Lotta Love\". In 1970, they released Led Zeppelin III which featured \"Immigrant Song\". Their untitled fourth album, commonly known as Led Zeppelin IV (1971), is one of the best-selling albums in history with 37 million copies sold. The album includes \"Black Dog\", \"Rock and Roll\" and \"Stairway to Heaven\", with the latter being among the most popular and influential works in rock history. Houses of the Holy (1973) yielded \"The Ocean\", \"Over the Hills and Far Away\" and \"The Rain Song\". Physical Graffiti (1975), a double album, featured \"Trampled Under Foot\" and \"Kashmir\".",
+    "wUrl": "http://en.wikipedia.org/wiki/Led_Zeppelin_(band)",
+    "yUrl": "https://www.youtube-nocookie.com/embed/AOK0FG0ejqA",
+    "yID": "AOK0FG0ejqA"
+  },
+  {
+    "Name": "Wolfmother",
+    "Type": "music",
+    "wTeaser": "Wolfmother are an Australian hard rock band formed in 2000 by vocalist and guitarist Andrew Stockdale, bassist and keyboardist Chris Ross, and drummer Myles Heskett. They have released three studio albums: Wolfmother (October 2005); Cosmic Egg (October 2009) and New Crown (March 2014). Wolfmother have won national and international awards, including three Australian Recording Industry Association (ARIA) Music Awards, three Australasian Performing Right Association (APRA) Awards and one Grammy Award.Their self-titled debut album won the 2005 J Award for Best Australian Album. A song from the album, \"Woman\" was nominated for Single of the Year and Best Breakthrough Artist \u2013 Single at the ARIA Awards, eventually losing out to Ben Lee's \"Catch My Disease\" and End of Fashion's \"O Yeah\", respectively. The following year, the album won the ARIA Award for Best Breakthrough Album, Best Rock Album, and the band won for Best Group; they also received nominations for Album of the Year (for Wolfmother) and Single of the Year (for \"Mind's Eye\"). In the same year, Wolfmother received nominations for Spankin' New Aussie Artist, Best New Group and Best Rock Video (for \"Mind's Eye\") at the MTV Australia Awards and a Jack Award nomination for Best Live Band. ",
+    "wUrl": "http://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Wolfmother",
+    "yUrl": "https://www.youtube-nocookie.com/embed/IRsc57nK8mg",
+    "yID": "IRsc57nK8mg"
+  },
+  {
+    "Name": "Foo Fighters",
+    "Type": "music",
+    "wTeaser": "Foo Fighters are an American rock band formed in Seattle in 1994. Foo Fighters was initially formed as a one man project by former Nirvana drummer Dave Grohl. Following the success of their eponymous debut album Foo Fighters, Grohl (lead vocals, guitar) recruited a band consisting of Nate Mendel (bass guitar), William Goldsmith (drums), and Pat Smear (guitar). After a succession of lineup changes, including the departures of Goldsmith and Smear, the band formed its core lineup in 1999 consisting of Grohl, Mendel, Chris Shiflett (guitar), and Taylor Hawkins (drums). In 2005 Smear returned to the band and in 2017 Rami Jaffee joined the band performing the keyboards and piano. Prior to the release of Foo Fighters' 1995 debut album Foo Fighters, which featured Grohl as the only official member, Grohl recruited bassist Nate Mendel and drummer William Goldsmith, both formerly of Sunny Day Real Estate, as well as Nirvana touring guitarist Pat Smear. The band began with performances in Portland, Oregon. Goldsmith quit during the recording of their second album, The Colour and the Shape (1997); most of the drum parts were re-recorded by Grohl. Smear departed soon afterward but appeared as a guest with the band frequently from 2005; he rejoined in 2010.",
+    "wUrl": "http://en.wikipedia.org/wiki/Foo_Fighters_(band)",
+    "yUrl": "https://www.youtube-nocookie.com/embed/SBjQ9tuuTJQ",
+    "yID": "SBjQ9tuuTJQ"
+  },
+  {
+    "Name": "Oasis",
+    "Type": "music",
+    "wTeaser": "Oasis were an English rock band formed in Manchester in 1991. Originally known as the Rain, the group initially consisted of Liam Gallagher (lead vocals, tambourine), Paul Arthurs (guitar), Paul McGuigan (bass guitar) and Tony McCarroll (drums). Liam's older brother Noel (lead guitar, vocals) later joined as a fifth member, finalising the group's core lineup. During the course of their existence, they had various lineup changes, with the Gallagher brothers remaining the only staple members.Oasis signed to independent record label Creation Records in 1993 and released their record-setting debut album Definitely Maybe (1994). The following year they recorded (What's the Story) Morning Glory? (1995) with drummer Alan White, in the midst of a chart rivalry with peers Blur. Spending ten weeks at number one on the UK Albums Chart, (What's the Story) Morning Glory? was also an international chart success and became one of the best-selling albums of all time. In addition, it stands as the fifth-best-selling album in the UK and the biggest-selling album in the UK of the 1990s. The Gallagher brothers featured regularly in tabloid newspapers for their disputes and wild lifestyles. In 1996, Oasis performed two nights at Knebworth for an audience of 125,000 each time, the largest outdoor concerts in UK history at the time. In 1997, Oasis released their third album, Be Here Now. It became the fastest-selling album in UK chart history.",
+    "wUrl": "http://en.wikipedia.org/wiki/Oasisinet",
+    "yUrl": "https://www.youtube-nocookie.com/embed/bx1Bh8ZvH84",
+    "yID": "bx1Bh8ZvH84"
+  },
+  {
+    "Name": "Rage Against The Machine",
+    "Type": "music",
+    "wTeaser": "Rage Against the Machine (often abbreviated as RATM or shortened to Rage) is an American rock band from Los Angeles, California. Formed in 1991, the group consists of vocalist Zack de la Rocha, bassist and backing vocalist Tim Commerford, guitarist Tom Morello, and drummer Brad Wilk. Their songs express their revolutionary political views. As of 2010, they have sold over 16 million records worldwide. The band was nominated for induction into the Rock & Roll Hall of Fame in their first year of eligibility in 2017, then again in 2018, 2019, and 2021, though the bids failed.Rage Against the Machine released its self-titled debut album in 1992 to commercial and critical success, leading to a slot in the 1993 Lollapalooza festival; in 2003, the album was ranked number 368 on Rolling Stone's list of the 500 greatest albums of all time. The band's next two albums, Evil Empire (1996) and The Battle of Los Angeles (1999), were also successful; both albums topped the Billboard 200 chart. During their initial nine-year run, Rage Against the Machine became a popular and influential band, and had a large influence on the nu metal genre which came to prominence during the late 1990s and early 2000s. They were also ranked No.\u00a033 on VH1's 100 Greatest Artists of Hard Rock.",
+    "wUrl": "http://en.wikipedia.org/wiki/Rage_Against_the_Machine",
+    "yUrl": "https://www.youtube-nocookie.com/embed/bWXazVhlyxQ",
+    "yID": "bWXazVhlyxQ"
+  },
+  {
+    "Name": "Guns N' Roses",
+    "Type": "music",
+    "wTeaser": "Guns N' Roses is an American hard rock band from Los Angeles, California, formed in 1985. When they signed to Geffen Records in 1986, the band comprised vocalist Axl Rose, lead guitarist Slash, rhythm guitarist Izzy Stradlin, bassist Duff McKagan, and drummer Steven Adler. The current lineup consists of Rose, Slash, McKagan, guitarist Richard Fortus, drummer Frank Ferrer and keyboardists Dizzy Reed and Melissa Reese.Guns N' Roses' debut album, Appetite for Destruction (1987), reached number one on the Billboard 200 a year after its release, on the strength of the top 10 singles \"Welcome to the Jungle\", \"Paradise City\", and \"Sweet Child o' Mine\", the band's only single to reach number one on the Billboard Hot 100. The album has sold approximately 30 million copies worldwide, including 18 million units in the United States, making it the country's bestselling debut album and eleventh-bestselling album. Their next studio album, G N' R Lies (1988), reached number two on the Billboard 200, sold ten million copies worldwide (including five million in the U.S.), and included the top 5 hit \"Patience\". Use Your Illusion I and Use Your Illusion II, recorded simultaneously and released in 1991, debuted at number two and number one on the Billboard 200 respectively and have sold a combined 35 million copies worldwide (including 14 million units in the U.S.). The Illusion albums included the lead single \"You Could Be Mine\", covers of \"Live and Let Die\" and \"Knockin' on Heaven's Door\", and a trilogy of ballads (\"Don't Cry\", \"November Rain\", and \"Estranged\"), which featured notably high-budget music videos. The records were supported by the Use Your Illusion Tour, a world tour that lasted from 1991 to 1993. The covers album \"The Spaghetti Incident?\" (1993) was the last studio album to feature Slash and McKagan before their initial departure.",
+    "wUrl": "http://en.wikipedia.org/wiki/Guns_N%27_Roses",
+    "yUrl": "https://www.youtube-nocookie.com/embed/1w7OgIMMRc4",
+    "yID": "1w7OgIMMRc4"
+  },
+  {
+    "Name": "The Offspring",
+    "Type": "music",
+    "wTeaser": "The Offspring is an American rock band from Garden Grove, California, formed in 1984. Originally formed under the name Manic Subsidal, the band's original lineup consisted of lead vocalist and rhythm guitarist Bryan \"Dexter\" Holland, bassist Todd Morse, and lead guitarist Kevin \"Noodles\" Wasserman. Over the course of their 38-year career, The Offspring have released 10 studio albums and have also experienced a number of lineup changes, most noticeably with their drummer. Their longest-serving drummer was Ron Welty, who replaced original drummer James Lilja in 1987 and stayed with The Offspring for 16 years. Welty was replaced by Atom Willard in 2003, who was replaced four years later by former drummer Pete Parada. Gregory \"Greg K.\" Kriesel (one of the Offspring\u2019s cofounders) was their bassist until 2018, when he was fired from the band due to business disputes, thus leaving Holland as the sole remaining original member. Kriesel was replaced by Todd Morse of H2O, who had been the Offspring's touring guitarist since 2009.",
+    "wUrl": "http://en.wikipedia.org/wiki/The_Offspring_(band)",
+    "yUrl": "https://www.youtube-nocookie.com/embed/7iNbnineUCI",
+    "yID": "7iNbnineUCI"
+  },
+  {
+    "Name": "Pearl Jam",
+    "Type": "music",
+    "wTeaser": "Pearl Jam is an American rock band formed in Seattle, Washington, in 1990. The band's lineup consists of founding members Jeff Ament (bass guitar), Stone Gossard (rhythm guitar), Mike McCready (lead guitar), and Eddie Vedder (lead vocals, guitar), as well as Matt Cameron (drums), who joined in 1998. Keyboardist Boom Gaspar has also been a touring/session member with the band since 2002. Drummers Jack Irons, Dave Krusen, Matt Chamberlain, and Dave Abbruzzese are former members of the band. Pearl Jam outsold many of their contemporaries from the early 1990s, and are considered one of the most influential bands of the decade, being dubbed as \"the most popular American rock & roll band of the '90s\".",
+    "wUrl": "http://en.wikipedia.org/wiki/Pearl_Jam_(band)",
+    "yUrl": "https://www.youtube-nocookie.com/embed/31vjCNgsGy0",
+    "yID": "31vjCNgsGy0"
+  },
+  {
+    "Name": "Metallica",
+    "Type": "music",
+    "wTeaser": "Metallica is an American heavy metal band. The band was formed in 1981 in Los Angeles by vocalist/guitarist James Hetfield and drummer Lars Ulrich and has been based in San Francisco for most of its career. The band's fast tempos, instrumentals and aggressive musicianship made them one of the founding \"big four\" bands of thrash metal, alongside Megadeth, Anthrax, and Slayer. Metallica's current lineup comprises founding members and primary songwriters Hetfield and Ulrich, longtime lead guitarist Kirk Hammett, and bassist Robert Trujillo. Guitarist Dave Mustaine (who formed Megadeth after being fired from the band) and bassists Ron McGovney, Cliff Burton, and Jason Newsted are former members of the band.",
+    "wUrl": "http://en.wikipedia.org/wiki/Metallica",
+    "yUrl": "https://www.youtube-nocookie.com/embed/tAGnKpE4NCI",
+    "yID": "tAGnKpE4NCI"
+  },
+  {
+    "Name": "The Doors",
+    "Type": "music",
+    "wTeaser": "The Doors were an American rock band formed in Los Angeles in 1965, with vocalist Jim Morrison, keyboardist Ray Manzarek, guitarist Robby Krieger and drummer John Densmore. They were among the most controversial and influential rock acts of the 1960s, partly due to Morrison's lyrics and voice, along with his erratic stage persona. The group is widely regarded as an important figure of the era's counterculture.The band took its name from the title of Aldous Huxley's book The Doors of Perception, itself a reference to a quote by William Blake. After signing with Elektra Records in 1966, the Doors with Morrison released six albums in five years, some of which are considered among the greatest of all time, including their self-titled debut (1967), Strange Days (1967), and L.A. Woman (1971). They were one of the most successful bands during that time and by 1972 the Doors had sold over 4 million albums domestically and nearly 8\u00a0million singles.",
+    "wUrl": "https://en.wikipedia.org/wiki/The_Doors",
+    "yUrl": "https://www.youtube-nocookie.com/embed/cJ7SUppRRoA",
+    "yID": "cJ7SUppRRoA"
+  },
+  {
+    "Name": "Arctic Monkeys",
+    "Type": "music",
+    "wTeaser": "Arctic Monkeys are an English rock band formed in Sheffield in 2002. The group consists of Alex Turner (lead vocals, guitar, keyboards), Jamie Cook (guitar, keyboards), Nick O'Malley (bass guitar, backing vocals), and Matt Helders (drums, backing vocals). Former band member Andy Nicholson (bass guitar, backing vocals) left the band in 2006 shortly after their debut album was released.Arctic Monkeys were heralded as one of the first bands to come to public attention via the Internet, with commentators suggesting they represented the possibility of a change in the way in which new bands are promoted and marketed. Their debut album, Whatever People Say I Am, That's What I'm Not (2006), became the fastest-selling debut album in UK chart history, and has been hailed as one of the greatest debut albums. It won Best British Album at the 2007 Brit Awards. The band's second album, Favourite Worst Nightmare (2007), was also acclaimed by critics and won Best British Album at the 2008 BRIT Awards. They went on to release Humbug (2009) and Suck It and See (2011).",
+    "wUrl": "http://en.wikipedia.org/wiki/Arctic_Monkeys_(band)",
+    "yUrl": "https://www.youtube-nocookie.com/embed/bpOSxM0rNPM",
+    "yID": "bpOSxM0rNPM"
+  },
+  {
+    "Name": "Gorillaz",
+    "Type": "music",
+    "wTeaser": "Gorillaz are an English band formed in 1998 by musician Damon Albarn and artist Jamie Hewlett, from London, England. The band primarily consists of four members: 2-D (vocals, keyboards), Murdoc Niccals (bass guitar), Noodle (guitar, keyboards, vocals), and Russel Hobbs (drums). Their universe is presented in music videos, interviews, comic strips and short cartoons. Gorillaz' music often features collaborations with a wide range of featured artists, with 2-D as the only permanent musical contributor.With Gorillaz, Albarn departed from the distinct Britpop of his band Blur, exploring a variety of musical styles including hip hop, electronic music and world music through an \"eccentrically postmodern\" approach. The band's 2001 debut album Gorillaz, which featured dub, Latin and punk influences, went triple platinum in the UK and double platinum in Europe, with sales driven by the success of the album's lead single \"Clint Eastwood\". Their second studio album, Demon Days (2005), went six times platinum in the UK and double platinum in the US and spawned the successful lead single \"Feel Good Inc.\".",
+    "wUrl": "http://en.wikipedia.org/wiki/Gorillaz",
+    "yUrl": "https://www.youtube-nocookie.com/embed/HyHNuVaZJ-k",
+    "yID": "HyHNuVaZJ-k"
+  },
+  {
+    "Name": "Muse",
+    "Type": "music",
+    "wTeaser": "Muse are an English rock band from Teignmouth, Devon, formed in 1994. The band consists of Matt Bellamy (lead vocals, guitar, keyboards), Chris Wolstenholme (bass guitar, backing vocals), and Dominic Howard (drums).Muse released their debut album, Showbiz, in 1999, showcasing Bellamy's falsetto and a melancholic alternative rock style. Their second album, Origin of Symmetry (2001), incorporated wider instrumentation and romantic classical influences and earned them a reputation for energetic live performances. Absolution (2003) saw further classical influence, with strings on tracks such as \"Butterflies and Hurricanes\", and was the first of six consecutive UK number-one albums.",
+    "wUrl": "http://en.wikipedia.org/wiki/Muse_(band)?redirect=no",
+    "yUrl": "https://www.youtube-nocookie.com/embed/d55ELY17CFM",
+    "yID": "d55ELY17CFM"
+  },
+  {
+    "Name": "The Beatles",
+    "Type": "music",
+    "wTeaser": "The Beatles were an English rock band, formed in Liverpool in 1960, that comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr. They are regarded as the most influential band of all time and were integral to the development of 1960s counterculture and popular music's recognition as an art form. Rooted in skiffle, beat and 1950s rock 'n' roll, their sound incorporated elements of classical music and traditional pop in innovative ways; the band later explored music styles ranging from ballads and Indian music to psychedelia and hard rock. As pioneers in recording, songwriting and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and sociocultural movements.",
+    "wUrl": "http://en.wikipedia.org/wiki/The_Beatles",
+    "yUrl": "https://www.youtube-nocookie.com/embed/NCtzkaL2t_Y",
+    "yID": "NCtzkaL2t_Y"
+  },
+  {
+    "Name": "Green Day",
+    "Type": "music",
+    "wTeaser": "Green Day is an American rock band formed in the East Bay of California in 1987 by lead vocalist and guitarist Billie Joe Armstrong, together with bassist and backing vocalist Mike Dirnt. For most of the band's career, they have been a power trio with drummer Tr\u00e9 Cool, who replaced John Kiffmeyer in 1990 before the recording of the band's second studio album, Kerplunk (1991). Touring guitarist Jason White became a full-time member in 2012, but returned to his touring role in 2016. Before taking its current name in 1989, Green Day was called Sweet Children, and they were part of the late 1980s/early 1990s Bay Area punk scene that emerged from the 924 Gilman Street club in Berkeley, California. The band's early releases were with the independent record label Lookout! Records. In 1994, their major-label debut Dookie, released through Reprise Records, became a breakout success and eventually shipped over 10 million copies in the U.S. Alongside fellow California punk bands Bad Religion, the Offspring, Rancid, and Social Distortion, Green Day is credited with popularizing mainstream interest in punk rock in the U.S.",
+    "wUrl": "http://en.wikipedia.org/wiki/Green_Day",
+    "yUrl": "https://www.youtube-nocookie.com/embed/Soa3gO7tL-c",
+    "yID": "Soa3gO7tL-c"
+  },
+  {
+    "Name": "Pink Floyd",
+    "Type": "music",
+    "wTeaser": "Pink Floyd are an English rock band formed in London in 1965. Gaining an early following as one of the first British psychedelic groups, they were distinguished for their extended compositions, sonic experimentation, philosophical lyrics and elaborate live shows. They became a leading band of the progressive rock genre, cited by some as the greatest progressive rock band of all time.Pink Floyd were founded in 1965 by Syd Barrett (guitar, lead vocals), Nick Mason (drums), Roger Waters (bass guitar, vocals), and Richard Wright (keyboards, vocals). Under Barrett's leadership, they released two charting singles and the successful debut album The Piper at the Gates of Dawn (1967). Guitarist and vocalist David Gilmour joined in December 1967; Barrett left in April 1968 due to deteriorating mental health. Waters became the primary lyricist and thematic leader, devising the concepts behind the band's peak success with the albums The Dark Side of the Moon (1973), Wish You Were Here (1975), Animals (1977) and The Wall (1979). The musical film based on The Wall, Pink Floyd \u2013 The Wall (1982), won two BAFTA Awards. Pink Floyd also composed several film scores. ",
+    "wUrl": "https://en.wikipedia.org/wiki/Pink_Floyd",
+    "yUrl": "https://www.youtube-nocookie.com/embed/acyv33TDxtE",
+    "yID": "acyv33TDxtE"
+  }
 ]

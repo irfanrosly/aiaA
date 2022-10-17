@@ -6,10 +6,13 @@ interface Props {
   style?: object;
 }
 
-const CustomCard: React.FC<Props> = ({ id, ...rest }) => {
+const CustomCard: React.FC<Props> = ({ id, item }) => {
+  const { Name, wTeaser, wUrl } = item;
+  console.log('rest : ', Name);
+
   return (
     <Card>
-      <Card.Title>HELLO WORLD {id}</Card.Title>
+      <Card.Title>{Name}</Card.Title>
       <Card.Divider />
       <Card.Image
         style={{ padding: 0 }}
@@ -17,10 +20,7 @@ const CustomCard: React.FC<Props> = ({ id, ...rest }) => {
           uri: 'https://awildgeographer.files.wordpress.com/2015/02/john_muir_glacier.jpg',
         }}
       />
-      <Text style={{ marginBottom: 10 }}>
-        The idea with React Native Elements is more about component structure
-        than actual design.
-      </Text>
+      <Text style={{ marginBottom: 10 }}>{wUrl}</Text>
       <Button
         // icon={
         //   <Icon name="code" color="#ffffff" iconStyle={{ marginRight: 10 }} />
